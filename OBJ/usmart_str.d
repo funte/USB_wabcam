@@ -1,0 +1,9 @@
+..\obj\usmart_str.o: ..\USMART\usmart_str.c
+..\obj\usmart_str.o: ..\USMART\usmart_str.h
+..\obj\usmart_str.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\usmart_str.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cm3.h
+..\obj\usmart_str.o: E:\dev\keli\mdk513\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usmart_str.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\usmart_str.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\usmart_str.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\usmart_str.o: ..\USMART\usmart.h

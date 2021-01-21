@@ -1,0 +1,11 @@
+..\obj\wkup.o: ..\HARDWARE\WKUP\wkup.c
+..\obj\wkup.o: ..\HARDWARE\WKUP\wkup.h
+..\obj\wkup.o: ..\SYSTEM\sys\sys.h
+..\obj\wkup.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\wkup.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cm3.h
+..\obj\wkup.o: E:\dev\keli\mdk513\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\wkup.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\wkup.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\wkup.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\wkup.o: ..\HARDWARE\LED\led.h
+..\obj\wkup.o: ..\SYSTEM\delay\delay.h

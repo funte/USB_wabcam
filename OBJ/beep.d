@@ -1,0 +1,9 @@
+..\obj\beep.o: ..\HARDWARE\BEEP\beep.c
+..\obj\beep.o: ..\HARDWARE\BEEP\beep.h
+..\obj\beep.o: ..\SYSTEM\sys\sys.h
+..\obj\beep.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\beep.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cm3.h
+..\obj\beep.o: E:\dev\keli\mdk513\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\beep.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\beep.o: E:\dev\keli\mdk513\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\beep.o: ..\SYSTEM\sys\system_stm32f10x.h
